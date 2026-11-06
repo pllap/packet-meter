@@ -1,0 +1,20 @@
+# 빌드와 테스트 결과물
+dist/
+bin/
+obj/
+.test-output/
+*.exe
+*.dll
+*.pdb
+
+# IDE 및 Windows 임시 파일
+.vs/
+.idea/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
+# 개인 설정과 로그
+settings.ini
+*.log
